@@ -8,7 +8,7 @@
 
 🔍 Interested in machine learning, human-computer interaction, and ethical research.
 
-
+<br>
 🛠️ Tech Stack
 
 Languages: C, C++, Python, JavaScript, HTML/CSS, Java
@@ -17,6 +17,8 @@ Tools: Git, Linux, React.js, MongoDB, VS Code, Pandas, MatplotLib, Seaborn, MySQ
 
 Skills: Systems programming, web development, research methodology
 
+<br>
+
 🎯 Goals
 
 Develop impactful software solutions and contribute to open-source projects.
@@ -24,6 +26,8 @@ Develop impactful software solutions and contribute to open-source projects.
 Advance my understanding of ethical AI and socially responsible computing.
 
 Build a strong professional network and collaborate on innovative ideas.
+
+<br>
 
 📫 Let's Connect!
 
