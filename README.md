@@ -11,9 +11,9 @@
 <br>
 🛠️ Tech Stack
 
-Languages: C, C++, Python, JavaScript, HTML/CSS, Java
+Languages: C, C++, Python, JavaScript, HTML/CSS, Java, Assembly, MATLAB
 
-Tools: Git, Linux, React.js, MongoDB, VS Code, Pandas, MatplotLib, Seaborn, MySQL, LaTex, Pros, Docker, Matlab, Linux, APIs, Solidworks
+Tools: Git, Linux, React.js, MongoDB, VS Code, Pandas, MatplotLib, Seaborn, MySQL, LaTex, Pros, Docker, Linux, APIs, SolidWorks, GitHub, Atom, Eclipse, Figma
 
 Skills: Systems programming, web development, research methodology
 
