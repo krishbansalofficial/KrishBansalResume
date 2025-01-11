@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi there! I am Krish Bansal👋</h1>
+<h1 style="text-align: center;">Hi there! I am <a href="https://www.linkedin.com/in/krish-bansalofficial/" target="_blank">Krish Bansal</a> 👋</h1>
 
 <h2 style="text-align: center;"> About ME </h2>
 
