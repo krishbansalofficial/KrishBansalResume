@@ -13,7 +13,7 @@
 
 Languages: C, C++, Python, JavaScript, HTML/CSS, Java
 
-Tools: Git, Linux, React.js, MongoDB, VS Code, Pandas, MatplotLib, Seaborn, MySQL, LaTex, Pros, Docker, Matlab, Linux
+Tools: Git, Linux, React.js, MongoDB, VS Code, Pandas, MatplotLib, Seaborn, MySQL, LaTex, Pros, Docker, Matlab, Linux, APIs, Solidworks
 
 Skills: Systems programming, web development, research methodology
 
